@@ -13,8 +13,7 @@ Bem-vindo ao meu perfil do GitHub! Aqui está um resumo das minhas habilidades:
   ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
   ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
 
-Estou constantemente aprimorando minhas habilidades nessas tecnologias e explorando novas ferramentas e frameworks relacionados. Tenho experiência no desenvolvimento de aplicações web e estou familiarizado com as melhores práticas e padrões da indústria.
-
+Estou constantemente aprimorando minhas habilidades nessas tecnologias e explorando novas ferramentas e frameworks relacionados.
 ## Contato
 
 Você pode entrar em contato comigo por meio dos seguintes canais:
