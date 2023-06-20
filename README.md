@@ -2,14 +2,16 @@ Bem-vindo ao meu perfil do GitHub! Aqui está um resumo das minhas habilidades:
 
 ## Tecnologias
 
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript&logoColor=white)
-  ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white)
-  ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
-  ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
-  ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+  ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+	![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+  ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
   ![Git](https://img.icons8.com/color/48/000000/git.png)
-  ![React Testing Library]([https://img.icons8.com/color/48/000000/react-native-testing-library.png](https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg))
-  ![Jest]([https://img.icons8.com/color/48/000000/jest.png](https://camo.githubusercontent.com/ae61b0ddad90a6f9be866adec7dbca2dcca1819e3204f07916d6f34ae058b4c9/68747470733a2f2f7777772e6c6561726e73746f7279626f6f6b2e636f6d2f696e74726f2d746f2d73746f7279626f6f6b2f6c6f676f2d6a6573742e706e67))
+  ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+  ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
 
 Estou constantemente aprimorando minhas habilidades nessas tecnologias e explorando novas ferramentas e frameworks relacionados. Tenho experiência no desenvolvimento de aplicações web e estou familiarizado com as melhores práticas e padrões da indústria.
 
