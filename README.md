@@ -7,8 +7,9 @@ Bem-vindo ao meu perfil do GitHub! Aqui está um resumo das minhas habilidades:
   ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
   ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
   ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-  ![Tailwind CSS](https://img.icons8.com/color/48/000000/tailwind-css.png)
   ![Git](https://img.icons8.com/color/48/000000/git.png)
+  ![React Testing Library](https://img.icons8.com/color/48/000000/react-native-testing-library.png)
+  ![Jest](https://img.icons8.com/color/48/000000/jest.png)
 
 Estou constantemente aprimorando minhas habilidades nessas tecnologias e explorando novas ferramentas e frameworks relacionados. Tenho experiência no desenvolvimento de aplicações web e estou familiarizado com as melhores práticas e padrões da indústria.
 
