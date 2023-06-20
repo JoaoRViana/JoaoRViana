@@ -16,7 +16,7 @@ Estou constantemente aprimorando minhas habilidades nessas tecnologias e explora
 
 Aqui estão algumas estatísticas do meu perfil do GitHub:
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=JoaoRViana&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoRViana&hide_progress=true)
 
 Essas estatísticas fornecem uma visão geral dos meus repositórios, contribuições e atividades no GitHub. Fique à vontade para explorar meus repositórios para ver mais projetos e colaborações.
 
