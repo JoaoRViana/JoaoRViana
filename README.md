@@ -8,8 +8,8 @@ Bem-vindo ao meu perfil do GitHub! Aqui está um resumo das minhas habilidades:
   ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
   ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
   ![Git](https://img.icons8.com/color/48/000000/git.png)
-  ![React Testing Library](https://img.icons8.com/color/48/000000/react-native-testing-library.png)
-  ![Jest](https://img.icons8.com/color/48/000000/jest.png)
+  ![React Testing Library]([https://img.icons8.com/color/48/000000/react-native-testing-library.png](https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg))
+  ![Jest]([https://img.icons8.com/color/48/000000/jest.png](https://camo.githubusercontent.com/ae61b0ddad90a6f9be866adec7dbca2dcca1819e3204f07916d6f34ae058b4c9/68747470733a2f2f7777772e6c6561726e73746f7279626f6f6b2e636f6d2f696e74726f2d746f2d73746f7279626f6f6b2f6c6f676f2d6a6573742e706e67))
 
 Estou constantemente aprimorando minhas habilidades nessas tecnologias e explorando novas ferramentas e frameworks relacionados. Tenho experiência no desenvolvimento de aplicações web e estou familiarizado com as melhores práticas e padrões da indústria.
 
