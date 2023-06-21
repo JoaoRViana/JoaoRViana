@@ -19,7 +19,7 @@ Estou constantemente aprimorando minhas habilidades nessas tecnologias e explora
 Você pode entrar em contato comigo por meio dos seguintes canais:
 
 - Email:joaorviana98@gmail.com
-- LinkedIn: [Seu Perfil do LinkedIn](https://www.linkedin.com/in/joaoricardoviana/)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/joaoricardoviana/)
 
 Sinta-se à vontade para me contatar se tiver alguma pergunta, oportunidade de colaboração ou apenas para uma conversa. Estou ansioso para ouvir de você!
 
